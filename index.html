@@ -1,0 +1,23 @@
+---
+layout: default
+---
+	<!-- <h1>{{ page.title }}</h1> -->
+	<ul class="posts">
+
+    {% for post in site.posts %}
+      <div class="table"> 
+          <div class="row">
+              <div class="cell">
+                <h4>
+                  <a class="post-link" href="{{ post.url | relative_url }}">
+                      {{post.date | date_to_string }} &nbsp; {{post.author}}
+                  </a>
+                </h4>  
+                <!-- <h4>{{post.date | date_to_string }} &nbsp; {{post.author}}</h4> -->
+                {{post.content}}
+              </div>
+          </div>
+      </div>
+
+	  {% endfor %}
+	</ul>
