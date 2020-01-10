@@ -3,16 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+So kann man Post anlegen auf dieser tollen Seite
+```
+---
+layout: post
+title:  "Artist - Song"
+date:   2020-01-10 00:00:33 +0100
+author: Raul
+---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Musik inhalte durch die embedded funktionen der Webseiten einbinden:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+"<iframe width="560" height="315" src="https://www.youtube.com/embed/X9idMjvXKPY" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+ allowfullscreen></iframe>"
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hier einfach getrost irgendwas reinschreiben. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+```
