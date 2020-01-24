@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Jackie Mittoo - "Wall Street"
 date:   2020-01-24 00:10:33 +0100
 author: Raul
