@@ -6,7 +6,6 @@ permalink: /about/
 So kann man Post anlegen auf dieser tollen Seite
 ```
 ---
-layout: post
 title:  "Artist - Song"
 date:   2020-01-10 00:00:33 +0100
 author: Raul
