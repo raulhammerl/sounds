@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-staticman_url: https://api.staticman.net/v3/entry/github/raulhammerl/sounds/master/comments
+staticman_url: https://api.staticman.net/v3/entry/github/raulhammerl/sounds/master/_data/comments
 
 
 # Exclude from processing.
