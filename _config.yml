@@ -37,8 +37,10 @@ staticman_url: https://api.staticman.net/v3/entry/github/raulhammerl/sounds/mast
 
 
 comments:
-provider: "staticman"
-
+  provider  : "staticman"
+  staticman:
+    branch    : "master"
+    endpoint  : https://api.staticman.net/v3/entry/github/raulhammerl/sounds/master/comments
 
 # Exclude from processing.
 # The following items will not be processed, by default.
