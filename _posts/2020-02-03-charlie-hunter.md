@@ -13,6 +13,6 @@ author: Raul
   allowfullscreen
 ></iframe>
 
-Charlie Hunter - Fine Corinthian Leather
-<br />
+Charlie Hunter - Fine Corinthian Leather  
+
 Guitar magic!
