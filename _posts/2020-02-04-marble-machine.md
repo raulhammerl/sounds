@@ -1,5 +1,5 @@
 ---
-title:  „Wintergatan - Marble Machine“
+title:  Wintergatan - Marble Machine
 date:   2020-02-05 15:14:33 +0100
 author: Raul
 ---

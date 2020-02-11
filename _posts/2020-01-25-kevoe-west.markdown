@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kevoe West - Ready to Diet"
+title:  Kevoe West - Ready to Diet
 date:   2020-01-25 00:10:33 +0100
 author: Raul
 ---
