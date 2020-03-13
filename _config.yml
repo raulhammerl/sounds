@@ -38,7 +38,7 @@ staticman_url: https://sounds-staticman.herokuapp.com/v3/entry/github/raulhammer
 #  https://$sounds-staticman.herokuapp.com/v3/entry/github/{githubUsername}/{repositoryName}/{branchName}/{folderLikeCommentsOrReviews}
 
 comments:
-  provider  : "staticman"
+  provider  : "staticman_v2"
   staticman:
     branch    : "master"
     # endpoint  : https://sounds-staticman.herokuapp.com/v3/entry/github/raulhammerl/sounds/master/
