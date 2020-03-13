@@ -33,8 +33,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-staticman_url: https://api.staticman.net/v3/entry/gitlab/raulhammerl/sounds/master/comments
+staticman_url: https://$sounds-staticman.herokuapp.com/v3/entry/raulhammerl/sounds/master/comments
 
+#  https://$sounds-staticman.herokuapp.com/v3/entry/github/{githubUsername}/{repositoryName}/{branchName}/{folderLikeCommentsOrReviews}
 
 comments:
   provider  : "staticman"
