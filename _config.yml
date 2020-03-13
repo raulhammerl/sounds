@@ -33,15 +33,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-staticman_url: https://sounds-staticman.herokuapp.com/v3/entry/github/raulhammerl/sounds/master/
+# staticman_url: https://sounds-staticman.herokuapp.com/v3/entry/github/raulhammerl/sounds/master/
+# staticman (comments) configuration
+staticman_url: https://sounds-staticman.herokuapp.com/v2/entry/raulhammerl/sounds/master/comments
 
-#  https://$sounds-staticman.herokuapp.com/v3/entry/github/{githubUsername}/{repositoryName}/{branchName}/{folderLikeCommentsOrReviews}
-
-comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "master"
-    # endpoint  : https://sounds-staticman.herokuapp.com/v3/entry/github/raulhammerl/sounds/master/
+# comments:
+#   provider  : "staticman_v2"
+#   staticman:
+#     branch    : "master"
+#     endpoint  : https://sounds-staticman.herokuapp.com/v3/entry/github/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
