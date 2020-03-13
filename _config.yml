@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-staticman_url: https://sounds-staticman.herokuapp.com/v3/entry/raulhammerl/sounds/master/comments
+staticman_url: https://sounds-staticman.herokuapp.com/v2/entry/raulhammerl/sounds/master/comments
 
 # comments:
 #   provider  : "staticman_v2"
