@@ -40,7 +40,7 @@ layout: default
   {% assign comments = site.data.comments[page.slug] | sort %}
     {% for comment in comments %}
       <span style="color:grey">
-        {{ comment[1].name | strip_html }} &nbsp; {{ comment[1].date | date: "%B %d, %Y" }}
+        <div class="comment__author"> {{ comment[1].name | strip_html }} </div> &nbsp; <div class="comment__date"> {{ comment[1].date | date: "%B %d, %Y" }} </div>
       </span>
 
       <div class="comment__body">
