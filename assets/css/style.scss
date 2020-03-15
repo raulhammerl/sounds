@@ -13,4 +13,14 @@
 
 .cell{margin-bottom: 75px}
 
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
+.comment__author {
+  color: grey;
+  font-size: 13px;
+}
+.comment__date {
+  font-size: 10px;
+  color: grey;
+}
