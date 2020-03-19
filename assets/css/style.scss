@@ -35,6 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 .page-link {
 	color: var(--main-text-color);
 }
+
 .comment__body {
 	color: var(--main-text-color);
 }
@@ -46,6 +47,10 @@ h1, h2, h3, h4, h5, h6 {
 .comment__date {
   font-size: 15px;
   color: var(--secondary-text-color);
+}
+
+.comment_form_entry {
+	color: var(--main-text-color);
 }
 
 html, html[data-theme="light"] { 
