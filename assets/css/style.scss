@@ -41,11 +41,16 @@ h1, h2, h3, h4, h5, h6 {
 	
 	&:visited {
 		color: var(--main-text-color);
-	  }
+	}
+
 	&:hover {
 		color: var(--main-text-color);
 		text-decoration: underline;
 	}
+}
+
+.post-meta {
+	color: var(--main-text-color);
 }
 
 .page-link {
@@ -53,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 	
 	&:visited {
 		color: var(--main-text-color);
-	  }
+	}
 
 	&:hover {
 		color: var(--main-text-color);
