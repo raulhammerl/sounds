@@ -12,10 +12,14 @@
   float: left; 
   color: var(--main-text-color);
 
+  &:visited {
+    color: var(--main-text-color);
+  }
+
   &:hover {
 	color: var(--main-text-color);
 	text-decoration: underline;
-}
+	}
 }
 
 body {
@@ -34,7 +38,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-link {
 	color: var(--main-text-color);
-
+	
+	&:visited {
+		color: var(--main-text-color);
+	  }
 	&:hover {
 		color: var(--main-text-color);
 		text-decoration: underline;
@@ -44,6 +51,10 @@ h1, h2, h3, h4, h5, h6 {
 .page-link {
 	color: var(--main-text-color);
 	
+	&:visited {
+		color: var(--main-text-color);
+	  }
+
 	&:hover {
 		color: var(--main-text-color);
 		text-decoration: underline;
@@ -89,7 +100,7 @@ html[data-theme="dark"] {
 	html, html[data-theme="dark"] {
 		--light-text-color: rgb(199, 199, 204);
 		--secondary-text-color: rgb(106,115,125); 
-  		--link-color: rgb(255,122,132);
+  		--link-color: rgb(0, 112, 201);
   		--main-background-color: rgb(31,31,31);
 		--main-text-color: rgb(229, 229, 234);
 		--background-color:  rgb(28, 28, 30);
