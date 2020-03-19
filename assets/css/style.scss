@@ -17,7 +17,6 @@ body {
 	background-color: var(--main-background-color);
 }
 
-/** Headings */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   color: var(--main-text-color);
@@ -44,6 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--secondary-text-color);
   font-size: 17px;
 }
+
 .comment__date {
   font-size: 15px;
   color: var(--secondary-text-color);
@@ -65,7 +65,7 @@ html[data-theme="dark"] {
 		--light-text-color: rgb(199, 199, 204);
 		--secondary-text-color: rgb(106,115,125); 
   		--link-color: rgb(255,122,132);
-  		--main-background-color: rgb(28, 28, 30);
+  		--main-background-color: rgb(31,31,31);
 		--main-text-color: rgb(229, 229, 234);
 		--background-color:  rgb(28, 28, 30);
 	}
@@ -75,7 +75,7 @@ html[data-theme="dark"] {
 		--light-text-color: rgb(199, 199, 204);
 		--secondary-text-color: rgb(106,115,125); 
   		--link-color: rgb(255,122,132);
-  		--main-background-color: rgb(28, 28, 30);
+  		--main-background-color: rgb(31,31,31);
 		--main-text-color: rgb(229, 229, 234);
 		--background-color:  rgb(28, 28, 30);
 	}
