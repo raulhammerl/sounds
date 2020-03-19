@@ -9,9 +9,9 @@
   line-height: 54px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
-
-.cell{margin-bottom: 75px}
+  float: left; 
+  color: var(--main-text-color);
+}
 
 body {
 	background-color: var(--main-background-color);
@@ -24,15 +24,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cell {
-  color: var(--main-text-color);
+	color: var(--main-text-color);
+	margin-bottom: 75px;
 }
 
 .post-link {
-  color: var(--main-text-color);
+	color: var(--main-text-color);
 }
 
 .page-link {
-  color: var(--main-text-color);
+	color: var(--main-text-color);
+}
+.comment__body {
+	color: var(--main-text-color);
 }
 
 .comment__author {
