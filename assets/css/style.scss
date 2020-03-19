@@ -84,6 +84,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--main-text-color);
 }
 
+.comment_form_label {
+	color: var(--main-text-color);
+}
+
 html, html[data-theme="light"] { 
 	--light-text-color: rgb(72, 72, 74);
 	--secondary-text-color: grey; 
