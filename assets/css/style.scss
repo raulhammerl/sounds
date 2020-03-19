@@ -11,6 +11,11 @@
   margin-bottom: 0;
   float: left; 
   color: var(--main-text-color);
+
+  &:hover {
+	color: var(--main-text-color);
+	text-decoration: underline;
+}
 }
 
 body {
