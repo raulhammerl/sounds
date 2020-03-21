@@ -3,6 +3,7 @@ title:  Wintergatan - Marble Machine
 date:   2020-02-05 15:14:33 +0100
 author: Raul
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -12,6 +13,7 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+</div>
 Wintergatan - Marble Machine     
 
 Ist das nur an mir vorbei gegangen?     

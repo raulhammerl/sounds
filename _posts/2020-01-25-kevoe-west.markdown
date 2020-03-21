@@ -4,6 +4,7 @@ title:  Kevoe West - Ready to Diet
 date:   2020-01-25 00:10:33 +0100
 author: Raul
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -13,7 +14,7 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
-
+</div>
 "Kevoe West - Ready to Diet"
 
 Golden beat

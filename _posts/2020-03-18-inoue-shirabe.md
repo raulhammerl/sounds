@@ -3,6 +3,7 @@ title:  Inoue Shirabe - Function Spring
 date:   2020-03-18 09:14:33 +0100
 author: Raul
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -12,4 +13,5 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+</div>
 Inoue Shirabe - Function Spring

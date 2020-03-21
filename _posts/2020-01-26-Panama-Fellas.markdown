@@ -3,6 +3,7 @@ title:  Cuba Feliz - Lagrimas Negras
 date:   2020-01-26 19:49:33 +0100
 author: Valer
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -12,7 +13,7 @@ author: Valer
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
-
+</div>
 Schöne Töne - aus dem Film ‚Cuba Feliz’   
 
 Doku über den alten Typen mit der Gitarre und Hut.   

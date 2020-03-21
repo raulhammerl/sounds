@@ -3,6 +3,7 @@ title:  Charlie Hunter - Fine Corinthian Leather
 date:   2020-02-03 21:00:33 +0100
 author: Raul
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -12,6 +13,7 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+</div>
 
 Charlie Hunter - Fine Corinthian Leather  
 

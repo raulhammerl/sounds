@@ -3,6 +3,7 @@ title:  Jackie Mittoo - Wall Street
 date:   2020-01-24 19:49:33 +0100
 author: Raul
 ---
+<div class="video-container ">
 <iframe
   width="560"
   height="315"
@@ -12,5 +13,6 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+</div>
 
 Smoothest surf sounds 
