@@ -136,6 +136,10 @@ h1, h2, h3, h4, h5, h6 {
 	list-style-type: none;
 }
 
+.site-nav {
+	color: var(--main-background-color);
+}
+
 html, html[data-theme="light"] { 
 	--light-text-color: rgb(72, 72, 74);
 	--secondary-text-color: grey; 
