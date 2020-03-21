@@ -98,6 +98,14 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--main-text-color);
 }
 
+.page-turn-link {
+	color: var(--link-color);
+}
+
+.page_number {
+	color: var(--main-text-color);
+}
+
 html, html[data-theme="light"] { 
 	--light-text-color: rgb(72, 72, 74);
 	--secondary-text-color: grey; 
@@ -130,7 +138,7 @@ html[data-theme="dark"] {
 	html[data-theme="light"] { 
 		--light-text-color: rgb(72, 72, 74);
 		--secondary-text-color: grey; 
-		--link-color: rgb(0, 112, 201);
+		--link-color: rgb(255,122,132);
 		--main-background-color: rgb(255, 255, 255);
 		--main-text-color: rgb(51, 51, 51);
 	}
