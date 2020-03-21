@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <ul class="posts-list">
+  <ul class="posts-listing">
     {% for post in paginator.posts %}
       <div class="cell">
         <span class="post-meta">{{ post.date | date_to_string }} &nbsp; {{post.author}}</span>
