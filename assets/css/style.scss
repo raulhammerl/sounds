@@ -115,6 +115,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--main-text-color);
 }
 
+.post-listing {
+	list-style-type: none;
+}
+
 html, html[data-theme="light"] { 
 	--light-text-color: rgb(72, 72, 74);
 	--secondary-text-color: grey; 
