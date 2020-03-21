@@ -100,6 +100,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-turn-link {
 	color: var(--link-color);
+
+	&:visited {
+		color: var(--link-color);
+	}
+
+	&:hover {
+		color: var(--link-color);
+		text-decoration: underline;
+	}
 }
 
 .page_number {
