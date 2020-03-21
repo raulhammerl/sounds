@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 staticman_url: https://sounds-staticman.herokuapp.com/v2/entry/raulhammerl/sounds/master/comments
 
