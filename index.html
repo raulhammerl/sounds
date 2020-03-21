@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <ul class="posts-listing">
+  <li class="posts-listing">
     {% for post in paginator.posts %}
       <div class="cell">
         <span class="post-meta">{{ post.date | date_to_string }} &nbsp; {{post.author}}</span>
@@ -16,7 +16,7 @@ layout: default
         {{post.content}}
       </div>
     {% endfor %}
-  </ul>
+    </li>
 
   <!-- Pagination links -->
   <div class="pagination">
