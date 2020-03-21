@@ -37,7 +37,7 @@ plugins:
 staticman_url: https://sounds-staticman.herokuapp.com/v2/entry/raulhammerl/sounds/master/comments
 
 paginate: 8
-paginate_path: "/sounds/page:num/"
+paginate_path: "/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,7 +54,7 @@ paginate_path: "/sounds/page:num/"
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
-#   - vendor/bundle/
+#   - vendor/bundle/de
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
