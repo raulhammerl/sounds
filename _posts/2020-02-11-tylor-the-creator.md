@@ -13,7 +13,6 @@ author: Raul
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
-</div>
-Tyler, The Creator: NPR Music Tiny Desk Concert          
+</div>     
 
 Hang out with this Tylor dude… 

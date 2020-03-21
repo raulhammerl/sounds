@@ -14,6 +14,4 @@ author: Jonas
   allowfullscreen
 ></iframe>
 </div>
-The Whirlings - Worries an a shelf
-
 John F. Spirit… oder auch Sonnenuntergang auf dem Balkon

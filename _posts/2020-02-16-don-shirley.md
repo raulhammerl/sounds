@@ -14,6 +14,5 @@ author: Raul
   allowfullscreen
 ></iframe>
 </div>
-Don Shirley - Water Boy (Live)    
-
+ 
 Piano Sunday

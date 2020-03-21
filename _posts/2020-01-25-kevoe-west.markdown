@@ -15,6 +15,5 @@ author: Raul
   allowfullscreen
 ></iframe>
 </div>
-"Kevoe West - Ready to Diet"
 
 Golden beat

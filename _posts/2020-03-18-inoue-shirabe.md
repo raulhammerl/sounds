@@ -14,4 +14,3 @@ author: Raul
   allowfullscreen
 ></iframe>
 </div>
-Inoue Shirabe - Function Spring

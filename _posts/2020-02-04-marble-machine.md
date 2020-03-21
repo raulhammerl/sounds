@@ -14,7 +14,6 @@ author: Raul
   allowfullscreen
 ></iframe>
 </div>
-Wintergatan - Marble Machine     
 
 Ist das nur an mir vorbei gegangen?     
 Nicer shit.

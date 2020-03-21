@@ -15,6 +15,4 @@ author: Raul
 ></iframe>
 </div>
 
-Charlie Hunter - Fine Corinthian Leather  
-
 Guitar magic!

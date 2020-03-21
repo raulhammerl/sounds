@@ -14,5 +14,3 @@ author: Katharina Corona
   allowfullscreen
 ></iframe>
 </div>
-
-Fool's Garden - Lemon Tree    
