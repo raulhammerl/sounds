@@ -37,7 +37,7 @@ plugins:
 staticman_url: https://sounds-staticman.herokuapp.com/v2/entry/raulhammerl/sounds/master/comments
 
 paginate: 8
-paginate_path: "sounds/page:num/"
+# paginate_path: "sounds/page:num/"
 
 # comments:
 #   provider  : "staticman_v2"
