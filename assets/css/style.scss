@@ -127,7 +127,6 @@ html[data-theme="dark"] {
 		--light-text-color: rgb(199, 199, 204);
 		--secondary-text-color: rgb(106,115,125); 
   		--link-color: rgb(255,122,132);
-		// --main-background-color: rgb(31,31,31);
 		--main-background-color: rgb(28, 28, 30);
 		--main-text-color: rgb(229, 229, 234);
 		// --background-color:  rgb(28, 28, 30);
@@ -137,8 +136,7 @@ html[data-theme="dark"] {
 	html, html[data-theme="dark"] {
 		--light-text-color: rgb(199, 199, 204);
 		--secondary-text-color: rgb(106,115,125); 
-  		--link-color: rgb(0, 112, 201);
-		//   --main-background-color: rgb(31,31,31);
+		--link-color: rgb(255,122,132);
 		--main-background-color: rgb(28, 28, 30);
 		--main-text-color: rgb(229, 229, 234);
 		// --background-color:  rgb(28, 28, 30);
@@ -147,7 +145,7 @@ html[data-theme="dark"] {
 	html[data-theme="light"] { 
 		--light-text-color: rgb(72, 72, 74);
 		--secondary-text-color: grey; 
-		--link-color: rgb(255,122,132);
+		--link-color: rgb(0, 112, 201);
 		--main-background-color: rgb(255, 255, 255);
 		--main-text-color: rgb(51, 51, 51);
 	}
