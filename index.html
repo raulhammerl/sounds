@@ -9,9 +9,10 @@ layout: default
       <div class="table"> 
           <div class="row">
               <div class="cell">
+                <span class="post-meta">{{ post.date | date_to_string | post.author}}</span>
                 <h4>
                   <a class="post-link" href="{{ post.url | relative_url }}">
-                      {{post.date | date_to_string }} &nbsp; {{post.author}}
+                      {{post.title}}
                   </a>
                 </h4>  
                 {{post.content}}
