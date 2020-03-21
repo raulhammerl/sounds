@@ -6,35 +6,33 @@ layout: default
 
   <ul class="posts-list">
     {% for post in paginator.posts %}
-      <div class="post-listing">
-        <div class="cell">
-          <span class="post-meta">{{ post.date | date_to_string }} &nbsp; {{post.author}}</span>
-          <h4>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{post.title}}
-            </a>
-          </h4>
-          {{post.content}}
-        </div>
+      <div class="cell">
+        <span class="post-meta">{{ post.date | date_to_string }} &nbsp; {{post.author}}</span>
+        <h4>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{post.title}}
+          </a>
+        </h4>
+        {{post.content}}
       </div>
     {% endfor %}
   </ul>
 
   <!-- Pagination links -->
   <div class="pagination">
-    
+
     {% if paginator.previous_page %}
-      <a href="/sounds{{ paginator.previous_page_path }}" class="page-turn-link">
-        Previous
-      </a>
+    <a href="/sounds{{ paginator.previous_page_path }}" class="page-turn-link">
+      Previous
+    </a>
     {% endif %}
-    
+
     <span class="page_number ">
       {{ paginator.page }} of {{ paginator.total_pages }}
     </span>
-    
+
     {% if paginator.next_page %}
-      <a href="/sounds{{ paginator.next_page_path }}" class="page-turn-link">Next</a>
+    <a href="/sounds{{ paginator.next_page_path }}" class="page-turn-link">Next</a>
     {% endif %}
   </div>
 
