@@ -16,4 +16,4 @@ youtube-url: UIbSkw4yvec
 ></iframe>
 </div>
 
-Neue deutsche Musikgruppe aus dem Bereich der E-Musik.
+Ein neue deutsche Musikgruppe aus dem Bereich der E-Musik.
