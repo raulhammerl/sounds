@@ -16,5 +16,5 @@ youtube-url: YdjgA9e_-x8
 ></iframe>
 </div>
 
-Who knows this JAF gem?     
+Who knows this JAF jam?     
 Kurz weird - dann geil! 
