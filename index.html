@@ -14,7 +14,7 @@ layout: default
           </a>
         </h4>
         {{post.content}}
-        
+
             <!-- Comments -->
           {% if site.data.comments[post.slug] %}
             {% assign comments = site.data.comments[post.slug] | sort %}
@@ -29,9 +29,8 @@ layout: default
             {% endfor %}
           {% endif %}
           <!-- Comments -->
-
-        {% endfor %}
-      </div>
+        </div>
+    {% endfor %}
     </li>
 
   <!-- Pagination links -->
