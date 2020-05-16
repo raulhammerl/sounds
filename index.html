@@ -18,6 +18,23 @@ layout: default
     {% endfor %}
     </li>
 
+    <!-- Comments -->
+    {% if site.data.comments[page.slug] %}
+    {% assign comments = site.data.comments[page.slug] | sort %}
+    {% assign limit = page.limit | default: 5 %}
+    {% for comment in comments limit: limit %}
+    <div class="comment__author"> {{ comment[1].name | strip_html }} &nbsp;
+      <span class="comment__date"> {{ comment[1].date | date: "%B %d, %Y" }} </span>
+    </div>
+
+    <div class="comment__body">
+      {{ comment[1].message | strip_html | markdownify }}
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    <!-- Comments -->
+
   <!-- Pagination links -->
   <div class="pagination">
 

@@ -29,11 +29,6 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-
 <!-- Comments -->
 {% if site.data.comments[page.slug] %}
     <h2>Comments</h2>
