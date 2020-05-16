@@ -115,6 +115,26 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--main-text-color);
 }
 
+.main-page-comments {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.main-comment__body {
+	color: var(--main-text-color);
+}
+
+.main-comment__author {
+  color: var(--secondary-text-color);
+  font-size: 17px;
+}
+
+.main-comment__date {
+  font-size: 15px;
+  color: var(--secondary-text-color);
+}
+
+
 .page-turn-link {
 	color: var(--link-color);
 
