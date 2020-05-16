@@ -18,7 +18,7 @@ layout: default
 
         <!-- Comments -->
       {% if post.data.comments[page.slug] %}
-        {% assign comments = site.data.comments[page.slug] | sort %}
+        {% assign comments = post.data.comments[page.slug] | sort %}
         {% assign limit = page.limit | default: 5 %}
         {% for comment in comments limit: limit %}
           <div class="comment__author"> {{ comment[1].name | strip_html }} &nbsp;
@@ -31,7 +31,7 @@ layout: default
         {% endfor %}
       {% endif %}
       <!-- Comments -->
-      
+
     {% endfor %}
     </li>
 
