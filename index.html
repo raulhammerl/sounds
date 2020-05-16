@@ -21,12 +21,9 @@ layout: default
         {% assign comments = site.data.comments[post.slug] | sort %}
         <!-- {% assign limit = 5 %} -->
         {% for comment in comments %}
-          <div class="comment__author"> {{ comment[1].name | strip_html }} &nbsp;
+          <div class="comment__author"> {{ comment[1].name | strip_html }}
             <span class="comment__date"> {{ comment[1].date | date: "%B %d, %Y" }} </span>
           </div>
-          <div>{{ post.page }}</div>
-          <div>{{} post.slug }}</div>
-          <div>{{} post.page.slug }}</div>
           <div class="comment__body">
           {{ comment[1].message | strip_html | markdownify }}
           </div>
