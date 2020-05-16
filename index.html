@@ -17,9 +17,9 @@ layout: default
       </div>
 
         <!-- Comments -->
-      {% if post.data.comments[page.slug] %}
-        {% assign comments = post.data.comments[page.slug] | sort %}
-        {% assign limit = page.limit | default: 5 %}
+      {% if site.data.comments[post.slug] %}
+        {% assign comments = site.data.comments[post.slug] | sort %}
+        {% assign limit = site.limit | default: 5 %}
         {% for comment in comments limit: limit %}
           <div class="comment__author"> {{ comment[1].name | strip_html }} &nbsp;
             <span class="comment__date"> {{ comment[1].date | date: "%B %d, %Y" }} </span>
