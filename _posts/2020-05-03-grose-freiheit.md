@@ -16,4 +16,6 @@ youtube-url: 8Qxuy9YLtPQ
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Living on the Westcoast
+</div>

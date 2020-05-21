@@ -14,4 +14,7 @@ author: Raul
   allowfullscreen
 ></iframe>
 </div>
+
+<div class="post-content-message"> 
 Für all diejenigen mit Liebeskummer…
+</div>

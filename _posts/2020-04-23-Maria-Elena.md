@@ -16,4 +16,6 @@ youtube-url: _rQheOglFos
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Schlendern am See
+</div>

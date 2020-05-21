@@ -14,4 +14,7 @@ author: Jonas
   allowfullscreen
 ></iframe>
 </div>
+
+<div class="post-content-message"> 
 John F. Spirit… oder auch Sonnenuntergang auf dem Balkon
+</div>

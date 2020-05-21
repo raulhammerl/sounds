@@ -12,4 +12,6 @@ Your browser does not support the audio element.
 
 </div>
 
+<div class="post-content-message"> 
 Das was sie sagt… 
+</div>

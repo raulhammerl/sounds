@@ -16,4 +16,6 @@ youtube-url: GTroJlLPRHM
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Neulich bei Boenischs im Garten…
+</div>

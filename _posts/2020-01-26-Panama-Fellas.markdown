@@ -14,7 +14,10 @@ author: Valer
   allowfullscreen
 ></iframe>
 </div>
+
+<div class="post-content-message"> 
 Schöne Töne - aus dem Film ‚Cuba Feliz’   
 
 Doku über den alten Typen mit der Gitarre und Hut.   
 Lohnt sich!
+</div>

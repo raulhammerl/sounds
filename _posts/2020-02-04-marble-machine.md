@@ -15,5 +15,7 @@ author: Raul
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Ist das nur an mir vorbei gegangen?     
 Nicer shit.
+</div>

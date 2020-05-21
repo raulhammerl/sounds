@@ -16,4 +16,6 @@ youtube-url: dT-Nny1dueY
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Ein bisschen sonnengefüllter elektronischer Reggea aus Österreich…
+</div>

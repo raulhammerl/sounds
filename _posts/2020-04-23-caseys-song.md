@@ -16,4 +16,6 @@ youtube-url: rXfIz_xCqjc
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Midnight groove.
+</div>

@@ -16,4 +16,6 @@ author: Raul
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Golden beat
+</div>

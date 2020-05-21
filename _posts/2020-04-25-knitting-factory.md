@@ -16,5 +16,7 @@ youtube-url: YdjgA9e_-x8
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Who knows this JAF jam?     
 Kurz weird - dann geil! 
+</div>

@@ -15,4 +15,6 @@ author: Valer
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 schmuuuuuuff!
+</div>

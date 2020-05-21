@@ -16,4 +16,6 @@ youtube-url: qzc7vY9VTnk
 ></iframe>
 </div>
 
+<div class="post-content-message"> 
 Crazy dance! Wait for it…
+</div>
