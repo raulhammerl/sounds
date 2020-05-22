@@ -5,9 +5,7 @@ author: Valer
 tags: homemade
 ---
 <div class="photo-container">
-  ​<picture>
-  <source src="https://www.dropbox.com/s/59u8k3okatiplna/koch.jpeg?raw=1" type="image/jpeg">
-  ​</picture>
+  <img src="https://www.dropbox.com/s/59u8k3okatiplna/koch.jpeg?raw=1" type="image/jpeg" style="width:50%;">
 </div>
 
 <div class="audio-container ">
