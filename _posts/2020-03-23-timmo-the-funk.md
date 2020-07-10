@@ -1,7 +1,7 @@
 ---
 title:  The Funk (Timmo & Gabo)
 date:   2020-03-23 17:30:33 +0100
-author: Timmoz
+author: Timmo
 ---
 <div class="audio-container ">
 
