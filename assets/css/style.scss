@@ -190,7 +190,7 @@ html[data-theme="light"] {
 	--main-background-color: rgb(255, 255, 255);
 	--secondary-background-color: rgb(255, 255, 255);
 	--main-text-color: rgb(51, 51, 51);
-	--border-color: grey;
+	--border-color: light-grey;
 }
 
 html[data-theme="dark"] {
@@ -225,7 +225,7 @@ html[data-theme="dark"] {
 		--main-background-color: rgb(255, 255, 255);
 		--secondary-background-color: rgb(255, 255, 255);
 		--main-text-color: rgb(51, 51, 51);
-		--border-color: grey;
+		--border-color: light-grey;
 	}
 }
 
