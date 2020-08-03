@@ -109,7 +109,6 @@ h6 {
 .comment__author {
 	color: var(--secondary-text-color);
 	font-size: 17px;
-	margin-bottom: 10px;
 }
 
 .comment__date {
@@ -131,6 +130,7 @@ h6 {
 	border-radius: 4px;
 	font-size: $base-font-size;
 	outline: none;
+	margin-top: 5px;
 }
 
 .comment_form_label {
