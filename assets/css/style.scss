@@ -109,6 +109,7 @@ h6 {
 .comment__author {
 	color: var(--secondary-text-color);
 	font-size: 17px;
+	margin-bottom: 5px;
 }
 
 .comment__date {
@@ -129,7 +130,7 @@ h6 {
 	border: 1px solid var(--border-color);;
 	border-radius: 4px;
 	font-size: $base-font-size;
-	
+
 	-webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
      -khtml-user-select: none; /* Konqueror HTML */
