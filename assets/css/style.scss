@@ -126,7 +126,7 @@ h6 {
 	background-color: var(--secondary-background-color);
 	resize: none;
 	box-sizing: border-box;
-	border: 2px solid #ccc;
+	border: 1px solid var(--secondary-background-color);;
 	border-radius: 4px;
 }
 
@@ -195,7 +195,7 @@ html[data-theme="dark"] {
 	--link-color: rgb(255, 122, 132);
 	--link-color--visited: rgb(196, 69, 80);
 	--main-background-color: rgb(1, 1, 2);
-	--secondary-background-color: rgb(120, 120, 120);
+	--secondary-background-color: rgb(80, 80, 80);
 	--main-text-color: rgb(229, 229, 234);
 }
 
@@ -207,7 +207,7 @@ html[data-theme="dark"] {
 		--link-color: rgb(255, 122, 132);
 		--link-color--visited: rgb(196, 69, 80);
 		--main-background-color: rgb(28, 28, 30);
-		--secondary-background-color: rgb(120, 120, 120);
+		--secondary-background-color: rgb(80, 80, 80);
 		--main-text-color: rgb(229, 229, 234);
 	}
 
