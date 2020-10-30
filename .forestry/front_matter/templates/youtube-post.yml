@@ -36,3 +36,5 @@ fields:
   default: []
   label: genres
   description: Add one or multiple genres…
+pages:
+- _posts/the-babylon-nightclub-demos-and-dubs.md
