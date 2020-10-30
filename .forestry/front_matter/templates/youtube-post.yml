@@ -1,4 +1,33 @@
 ---
 label: Youtube Post
 hide_body: false
-fields: []
+fields:
+- name: song_title
+  type: text
+  config:
+    required: false
+  label: Song Title
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: artist
+  type: text
+  config:
+    required: false
+  label: Artist
+- name: youtube_url
+  type: text
+  config:
+    required: false
+  label: youtube url
