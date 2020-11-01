@@ -1,22 +1,72 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="post">
-<div class="video-container ">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/{{ youtube-url }}"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/{{youtube_url}}?autoplay=1><img src=https://img.youtube.com/vi/{{youtube_url}}/hqdefault.jpg alt='Video The Dark Knight Rises: What Went Wrong? – Wisecrack Edition'><span>▶</span></a>"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ 
+        <time class="dt-modified" datetime="{{ page.modified_date | date_to_xmlschema }}" itemprop="dateModified">
+          {{ page.modified_date | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
+  <div class="video-container ">
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/{{ page.youtube-url }}"
+      srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a 
+             href=https://www.youtube.com/embed/{{ page.youtube-url }}?autoplay=1><img src=https://img.youtube.com/vi/{{ page.youtube-url }}/hqdefault.jpg alt='Video The Dark Knight Rises: What Went Wrong? – Wisecrack Edition'><span>▶</span></a>"
+      frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+  ></iframe>
 </div>
+  <div class="post-content" itemprop="articleBody">
+    {{ page.content }}
+  </div>
 
-<div>{{ page.content }}</div>
-<div>{{ page.youtube-url }}</div>
+<!-- Comments -->
+{% if site.data.comments[page.slug] %}
+    <h2>Comments</h2>
+  {% assign comments = site.data.comments[page.slug] | sort %}
+    {% for comment in comments %}
+      <div class="comment__author"> {{ comment[1].name | strip_html }}  &nbsp;
+         <span class="comment__date"> {{ comment[1].date | date: "%B %d, %Y" }} </span>
+      </div>
 
-</div>
+      <div class="comment__body">
+        {{ comment[1].message | strip_html | markdownify }}
+      </div>
+    {% endfor %}
+{% endif %}
 
-</html>
+<!-- Comments -->
+
+
+<!-- Comments Form -->
+  <form method="POST" action="{{ site.staticman_url }}">
+    <!-- <input name="options[redirect]" type="hidden" value="https://example.com"> -->
+    <input class="comment_form_entry" name="options[slug]" type="hidden" value="{{ page.slug }}">
+      <input class="comment_form_text_field" placeholder="Name" name="fields[name]" type="text"> <br>
+      <textarea class="comment_form_text_field"" style="width:100%" name="fields[message]" rows="5"></textarea> <br>
+      <button type="submit">Submit comment</button>
+  </form>
+  
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
