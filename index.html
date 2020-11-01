@@ -10,10 +10,10 @@ layout: default
         <span class="post-meta">{{ post.date | date_to_string }} &nbsp; {{post.author}}</span>
         <h4>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{post.title}}
+            "{{ post.author }} - {{ post.title }}"
           </a>
         </h4>
-        {{post.content}}
+        {{ post.content }}
 
         <div class="main-page-comments">
             <!-- Comments -->
