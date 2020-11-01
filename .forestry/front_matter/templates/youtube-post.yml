@@ -31,7 +31,7 @@ fields:
   type: text
   config:
     required: false
-  label: youtube url
+  label: Youtube ID
 - name: genres
   type: tag_list
   default: []
