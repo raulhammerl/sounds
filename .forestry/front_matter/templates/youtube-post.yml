@@ -36,6 +36,20 @@ fields:
   default: []
   label: genres
   description: Add one or multiple genres…
+- name: layout
+  type: select
+  default: youtube
+  config:
+    required: false
+    options:
+    - youtube
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
+  hidden: true
 pages:
 - _posts/2020-10-29-the-babylon-nightclub-demos-and-dubs.md
 - _posts/autopsy.md
