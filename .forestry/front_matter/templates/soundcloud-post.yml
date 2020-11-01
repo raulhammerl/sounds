@@ -1,5 +1,5 @@
 ---
-label: Soundcloud Post
+label: Default Post
 hide_body: false
 fields:
 - type: text
