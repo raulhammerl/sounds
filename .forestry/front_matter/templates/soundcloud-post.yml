@@ -4,18 +4,19 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: text
   name: author
-  label: author
+  label: Author
 - name: artist
   type: text
   config:
     required: false
   label: Artist
-- type: text
-  name: genre
-  label: genre
+- name: genre
+  type: tag_list
+  default: []
+  label: Genre
