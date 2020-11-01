@@ -11,6 +11,11 @@ fields:
 - type: text
   name: author
   label: author
+- name: artist
+  type: text
+  config:
+    required: false
+  label: Artist
 - type: text
-  name: tags
-  label: tags
+  name: genre
+  label: genre
