@@ -13,6 +13,7 @@ layout: default
             {{ post.artist }} - {{ post.title }}
           </a>
         </h4>
+        {% include youtube_embedding.html youtube-url="{{ post.youtube-url }}" %}
         {{ post.content }}
 
         <div class="main-page-comments">
