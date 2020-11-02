@@ -7,21 +7,6 @@ fields:
   config:
     required: false
   label: Song Title
-- name: author
-  type: text
-  config:
-    required: false
-  label: Author
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
 - name: artist
   type: text
   config:
@@ -32,11 +17,26 @@ fields:
   config:
     required: false
   label: Youtube ID
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 - name: genres
   type: tag_list
   default: []
   label: genres
   description: Add one or multiple genres…
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: layout
   type: select
   default: youtube
@@ -56,5 +56,3 @@ pages:
 - _posts/2020-10-31-brand-e.md
 - _posts/2020-11-01-end-of-the-page.md
 - _posts/2020-11-06-something-stupid.md
-- _posts/a-long-time.md
-- _posts/gedichte.md
