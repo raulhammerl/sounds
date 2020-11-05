@@ -1,9 +1,11 @@
 ---
-title:  Doris Monteiro - Maita 
-date:   2020-08-07 00:00:33 +0100
+artist: Doris Monteiro
+title:  Maita 
+tags:   funk, soul, brazil
 author: Yoo
 youtube-url: CmzaETbB3fE
-tags:   funk, soul, brazil
+date:   2020-08-07 00:00:33 +0100
+layout: youtube
 ---
 <div class="video-container ">
 <iframe
