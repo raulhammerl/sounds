@@ -75,8 +75,10 @@ h6 {
 
 .post-content {
 	color: var(--main-text-color);
+	margin-top: 10px;
 }
 
+// WARNING: deprecation!
 .post-content-message {
 	margin-top: 10px;
 }
