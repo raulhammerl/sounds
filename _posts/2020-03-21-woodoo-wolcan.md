@@ -1,5 +1,6 @@
 ---
-title:  Wodoo Wolcan - Bird Walk (How do I self-quarantine?) 
+artist: Wodoo Wolcan
+title:  Bird Walk (How do I self-quarantine?) 
 date:   2020-03-21 15:14:33 +0100
 author: Timmo
 ---

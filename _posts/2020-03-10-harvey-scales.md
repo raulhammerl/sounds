@@ -1,20 +1,10 @@
 ---
-title:  Harvey Scales ‎– I'll Run To Your Side
-date:   2020-03-10 10:14:33 +0100
-author: Raul
+artist:   Harvey Scales 
+title:    I'll Run To Your Side
+date:     2020-03-10 10:14:33 +0100
+author:   Raul
+layout:   youtube
+youtube-url: hA7HFImVoWk
 ---
-<div class="video-container ">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/hA7HFImVoWk"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/hA7HFImVoWk?autoplay=1><img src=https://img.youtube.com/vi/hA7HFImVoWk/hqdefault.jpg alt='Video The Dark Knight Rises: What Went Wrong? – Wisecrack Edition'><span>▶</span></a>"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
-</div>
 
-<div class="post-content-message"> 
 Für all diejenigen mit Liebeskummer…
-</div>
