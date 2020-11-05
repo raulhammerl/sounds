@@ -1,9 +1,9 @@
 ---
-layout: youtube
 title:  Let's Dance Raw (Instrumental)
 artist: Shintaro Sakamoto
 date:   2020-01-24 10:10:33 +0100
 author: Raul
 youtube-url: dCWPUCQfaZM
+layout: youtube
 ---
 
