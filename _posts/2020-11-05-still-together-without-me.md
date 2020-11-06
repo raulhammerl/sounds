@@ -1,6 +1,9 @@
 ---
-genres: []
-date: 2020-11-05 19:06:09 +0100
+genres:
+- " Pop Rock"
+- Indie
+- Indie Rock
+date: 2020-11-05T19:06:09.000+01:00
 layout: youtube
 title: Still Together / Without Me
 artist: Max DeMarco
