@@ -183,6 +183,11 @@ h6 {
 	color: var(--main-background-color);
 }
 
+.site-header {
+    border-top-color: var(--border-top-color);
+    border-bottom-color: var(--border-bottom-color);
+}
+
 html,
 html[data-theme="light"] {
 	--light-text-color: rgb(72, 72, 74);
@@ -193,6 +198,8 @@ html[data-theme="light"] {
 	--secondary-background-color: rgb(255, 255, 255);
 	--main-text-color: rgb(51, 51, 51);
 	--border-color: rgb(200, 200, 200);
+	--border-top-color: rgb(66, 66, 66);
+    --border-bottom-color: rgb(232, 232, 232);
 }
 
 html[data-theme="dark"] {
@@ -204,6 +211,8 @@ html[data-theme="dark"] {
 	--secondary-background-color: rgb(80, 80, 80);
 	--main-text-color: rgb(229, 229, 234);
 	--border-color: rgb(80, 80, 80);
+	--border-top-color: rgb(118, 110, 97);
+    --border-bottom-color: rgb(54, 59, 61);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -217,6 +226,8 @@ html[data-theme="dark"] {
 		--secondary-background-color: rgb(80, 80, 80);
 		--main-text-color: rgb(229, 229, 234);
 		--border-color: rgb(80, 80, 80);
+		--border-top-color: rgb(118, 110, 97);
+    	--border-bottom-color: rgb(54, 59, 61);
 	}
 
 	html[data-theme="light"] {
@@ -228,6 +239,8 @@ html[data-theme="dark"] {
 		--secondary-background-color: rgb(255, 255, 255);
 		--main-text-color: rgb(51, 51, 51);
 		--border-color: rgb(200, 200, 200);
+		--border-top-color: rgb(66, 66, 66);
+		--border-bottom-color: rgb(232, 232, 232);
 	}
 }
 
