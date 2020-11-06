@@ -1,24 +1,11 @@
 ---
 artist: Doris Monteiro
-title:  Maita 
-tags:   funk, soul, brazil
+title: Maita
+tags: funk, soul, brazil
 author: Yoo
 youtube-url: CmzaETbB3fE
-date:   2020-08-07 00:00:33 +0100
+date: 2020-08-07T00:00:33.000+01:00
 layout: youtube
----
-<div class="video-container ">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/CmzaETbB3fE"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/CmzaETbB3fE?autoplay=1><img src=https://img.youtube.com/vi/CmzaETbB3fE/hqdefault.jpg alt='Video The Dark Knight Rises: What Went Wrong? – Wisecrack Edition'><span>▶</span></a>"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
-</div>
 
-<div class="post-content-message"> 
-Prickelnd geht es runter
-</div>
+---
+ Prickelnd geht es runter …
