@@ -8,6 +8,6 @@ layout: youtube
 title: Stuck in Socks
 artist: Moodcut
 youtube-url: t2K2DpcaV0w
-author: SNIPE
+author: Timmo
 
 ---
