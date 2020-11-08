@@ -1,5 +1,6 @@
 ---
-title:  Valer - Rooftop Recordings
+artist: Valer
+title:  Rooftop Recordings
 date:   2020-05-22 8:00:33 +0100
 author: Valer
 tags: homemade

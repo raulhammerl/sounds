@@ -1,7 +1,8 @@
 ---
-title:  Timmo - Bass Lining
+artist: Timmo
+title:  Bass Lining
 date:   2020-04-20 9:00:33 +0100
-author: 
+author: Timmo
 ---
 <div class="audio-container ">
 

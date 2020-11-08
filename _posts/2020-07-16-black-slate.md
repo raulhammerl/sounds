@@ -1,5 +1,6 @@
 ---
-title:  Black Slate - Amigo
+artist: Black Slate
+title:  Amigo
 date:   2020-07-13 16:33:33 +0100
 author: Raul
 youtube-url: nTgiEFpK-xA

@@ -1,5 +1,6 @@
 ---
-title:  Idle Moments - Grant Green
+artist: Idle Moments
+title:  Grant Green
 date:   2020-05-19 7:33:33 +0100
 author: Micha
 youtube-url: aq0m0hbCjFQ

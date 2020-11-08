@@ -1,5 +1,6 @@
 ---
-title:  Hungover Nacho - Beach Therapy / demo
+artist: Hungover Nacho
+title:  Beach Therapy / demo
 date:   2020-08-02 07:14:33 +0100
 author: Valer
 ---

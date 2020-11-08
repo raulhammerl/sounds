@@ -1,8 +1,7 @@
 ---
 title:  Hellzapoppin Scene
 date:   2020-04-24 7:33:33 +0100
-author: Raul
-youtube-url: qzc7vY9VTnk 
+author: Raul 
 ---
 <div class="video-container ">
 <iframe
