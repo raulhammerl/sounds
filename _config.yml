@@ -28,7 +28,6 @@ paginate_path: "/page:num/"
 
 # RSS Feed
 name: Sounds
-url: raulhammerl.github.io/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
