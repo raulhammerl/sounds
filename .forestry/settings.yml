@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://maker.ifttt.com/trigger/post_publish/with/key/c3Y3STF0ELRT72MOqC61GV
 sections:
 - type: jekyll-posts
   label: Posts
