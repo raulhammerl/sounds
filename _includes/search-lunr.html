@@ -23,6 +23,8 @@ var idx = lunr(function () {
     this.ref('id')
     this.field('title')
     this.field('body')
+    this.field('author')
+    this.field('artist')
 
     documents.forEach(function (doc) {
         this.add(doc)
