@@ -1,5 +1,6 @@
 ---
-genres: []
+genres:
+- disco
 date: 2020-11-19 05:25:30 +0100
 layout: youtube
 title: Parev Ajere
