@@ -20,5 +20,3 @@ fields:
   type: tag_list
   default: []
   label: Genre
-pages:
-- _posts/2020-11-17-bosa.md
