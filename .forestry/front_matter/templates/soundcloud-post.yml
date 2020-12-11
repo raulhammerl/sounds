@@ -21,4 +21,5 @@ fields:
   default: []
   label: Genre
 pages:
+- _posts/spiderman-1.md
 - _posts/spiderman.md
