@@ -17,7 +17,6 @@ fields:
   config:
     required: false
   label: Youtube ID
-  description: The letters and numbers after "http://www.youtube.com/watch?v="
 - name: author
   type: text
   config:
