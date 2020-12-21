@@ -1,5 +1,7 @@
 ---
-genres: []
+genres:
+- rock
+- surf-rock
 date: 2020-12-18 21:38:52 +0100
 layout: youtube
 title: Windy & Warm
