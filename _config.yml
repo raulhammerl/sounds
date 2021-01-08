@@ -5,7 +5,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Listening to the sounds
 baseurl: #"/sounds"# the subpath of your site, e.g. /blog
-url: "https://raulhammerl.github.io/sounds/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://raulhammerl.github.io/sounds" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
