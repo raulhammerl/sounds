@@ -2,7 +2,7 @@
 genre:
 - Italo
 title: Viaggio in Italia Mix
-artist: Break 4 love records
+artist: Break 4 Love Records
 date: 2021-01-23 00:00:00 +0100
 author: Johannriderfromrohan
 
