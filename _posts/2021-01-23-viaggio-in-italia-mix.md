@@ -1,10 +1,10 @@
 ---
 genre:
 - Italo
-title: Viaggio in Italia mix
+title: Viaggio in Italia Mix
 artist: Break 4 love records
 date: 2021-01-23 00:00:00 +0100
 author: Johannriderfromrohan
 
 ---
-[https://soundcloud.com/break4loverecords/viaggio-in-italia-mix](https://soundcloud.com/break4loverecords/viaggio-in-italia-mix "https://soundcloud.com/break4loverecords/viaggio-in-italia-mix")
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/916706890&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
