@@ -10,16 +10,13 @@ youtube-url: J4F9XDC9UZQ
 author: Johannriderfromrohan
 
 ---
-Eigentlich wollte ich das komplette Album posten, gab's leider nicht.
-
+Eigentlich wollte ich das komplette Album posten, gab's leider nicht.  
 Deshalb einfach auf youtube oder bandcamp die restlichen Tracks anhören.
 
 Album Titel: Yeah definitely OTIS009
 
-persönliche Favoriten:
+Persönliche Favoriten:
 
-Ghost
-
-Huh
-
-Come live
+* Ghost
+* Huh
+* Come live
