@@ -48,9 +48,15 @@ body {
 	background-color: var(--main-background-color);
 }
 
+h3 {
+        font-size: 16px;
+        font-weight: 425;
+        line-height: 24px;
+        color: var(--main-text-color);
+}
+
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
