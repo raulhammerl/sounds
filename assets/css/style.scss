@@ -4,55 +4,55 @@
 @import "minima";
 
 .site-title {
-	font-size: 26px;
-	font-weight: 500;
-	line-height: 54px;
-	letter-spacing: -1px;
-	margin-bottom: 0;
-	float: left;
-	color: var(--main-text-color);
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 54px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  color: var(--main-text-color);
 
-	&:visited {
-		color: var(--main-text-color);
-	}
+  &:visited {
+    color: var(--main-text-color);
+  }
 
-	&:hover {
-		color: var(--main-text-color);
-		text-decoration: underline;
-	}
+  &:hover {
+    color: var(--main-text-color);
+    text-decoration: underline;
+  }
 }
 
 .site-nav {
-	background-color: var(--main-background-color);
-	color: var(--main-text-color);
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
 }
 
 /**
  * Links
  */
 a {
-	color: var(--link-color);
-	text-decoration: none;
+  color: var(--link-color);
+  text-decoration: none;
 
-	&:visited {
-		color: var(--link-color--visited);
-	}
+  &:visited {
+    color: var(--link-color--visited);
+  }
 
-	&:hover {
-		color: var(--link-color);
-		text-decoration: underline;
-	}
+  &:hover {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
 }
 
 body {
-	background-color: var(--main-background-color);
+  background-color: var(--main-background-color);
 }
 
 h3 {
-        font-size: 12px;
-        font-weight: 300;
-        line-height: 30px;
-        color: var(--main-text-color);
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 30px;
+  color: var(--main-text-color);
 }
 
 h1,
@@ -60,199 +60,199 @@ h2,
 h4,
 h5,
 h6 {
-	font-weight: 300;
-	color: var(--main-text-color);
-	margin-left: 0px;
+  font-weight: 300;
+  color: var(--main-text-color);
+  margin-left: 0px;
 }
 
 .cell {
-	color: var(--main-text-color);
-	margin-bottom: 100px;
-	margin-left: 0px;
+  color: var(--main-text-color);
+  margin-bottom: 100px;
+  margin-left: 0px;
 }
 
 .post-link {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 
-	&:visited {
-		color: var(--main-text-color);
-	}
+  &:visited {
+    color: var(--main-text-color);
+  }
 
-	&:hover {
-		color: var(--main-text-color);
-		text-decoration: underline;
-	}
+  &:hover {
+    color: var(--main-text-color);
+    text-decoration: underline;
+  }
 }
 
 .post-content {
-	color: var(--main-text-color);
-	margin-top: 10px;
+  color: var(--main-text-color);
+  margin-top: 10px;
 }
 
 // WARNING: deprecation!
 .post-content-message {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 .trigger {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .page-link {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 
-	&:visited {
-		color: var(--main-text-color);
-	}
+  &:visited {
+    color: var(--main-text-color);
+  }
 
-	&:hover {
-		color: var(--main-text-color);
-		text-decoration: underline;
-	}
+  &:hover {
+    color: var(--main-text-color);
+    text-decoration: underline;
+  }
 }
 
 .button {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .comment__body {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .comment__author {
-	color: var(--secondary-text-color);
-	font-size: 17px;
+  color: var(--secondary-text-color);
+  font-size: 17px;
 }
 
 .comment__date {
-	font-size: 15px;
-	color: var(--secondary-text-color);
+  font-size: 15px;
+  color: var(--secondary-text-color);
 }
 
 .comment_form_entry {
-	color: var(--main-text-color);
-	background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  background-color: var(--main-background-color);
 }
 
 .comment_form_text_field {
-	color: var(--main-text-color);
-	background-color: var(--secondary-background-color);
-	resize: none;
-	box-sizing: border-box;
-	border: 1px solid var(--border-color);;
-	border-radius: 4px;
-	font-size: $base-font-size;
-	outline: none;
-	margin-top: 5px;
+  color: var(--main-text-color);
+  background-color: var(--secondary-background-color);
+  resize: none;
+  box-sizing: border-box;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: $base-font-size;
+  outline: none;
+  margin-top: 5px;
 }
 
 .comment_form_label {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .main-page-comments {
-	margin-top: 30px;
-	margin-left: 20px;
+  margin-top: 30px;
+  margin-left: 20px;
 }
 
 .main-comment__body {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .main-comment__author {
-	color: var(--secondary-text-color);
-	font-size: 17px;
+  color: var(--secondary-text-color);
+  font-size: 17px;
 }
 
 .main-comment__date {
-	font-size: 15px;
-	color: var(--secondary-text-color);
+  font-size: 15px;
+  color: var(--secondary-text-color);
 }
 
 .page-turn-link {
-	color: var(--link-color);
+  color: var(--link-color);
 
-	&:visited {
-		color: var(--link-color);
-	}
+  &:visited {
+    color: var(--link-color);
+  }
 
-	&:hover {
-		color: var(--link-color);
-		text-decoration: underline;
-	}
+  &:hover {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
 }
 
 .page_number {
-	color: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .posts-listing {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 .site-nav {
-	color: var(--main-background-color);
+  color: var(--main-background-color);
 }
 
 .site-header {
-    border-top-color: var(--border-top-color);
-    border-bottom-color: var(--border-bottom-color);
+  border-top-color: var(--border-top-color);
+  border-bottom-color: var(--border-bottom-color);
 }
 
 html,
 html[data-theme="light"] {
-	--light-text-color: rgb(72, 72, 74);
-	--secondary-text-color: grey;
-	--link-color: rgb(0, 112, 201);
-	--link-color--visited: rgb(15, 69, 113);
-	--main-background-color: rgb(255, 255, 255);
-	--secondary-background-color: rgb(255, 255, 255);
-	--main-text-color: rgb(51, 51, 51);
-	--border-color: rgb(200, 200, 200);
-	--border-top-color: rgb(66, 66, 66);
-    --border-bottom-color: rgb(232, 232, 232);
+  --light-text-color: rgb(72, 72, 74);
+  --secondary-text-color: grey;
+  --link-color: rgb(0, 112, 201);
+  --link-color--visited: rgb(15, 69, 113);
+  --main-background-color: rgb(255, 255, 255);
+  --secondary-background-color: rgb(255, 255, 255);
+  --main-text-color: rgb(51, 51, 51);
+  --border-color: rgb(200, 200, 200);
+  --border-top-color: rgb(66, 66, 66);
+  --border-bottom-color: rgb(232, 232, 232);
 }
 
 html[data-theme="dark"] {
-	--light-text-color: rgb(199, 199, 204);
-	--secondary-text-color: rgb(106, 115, 125);
-	--link-color: rgb(255, 122, 132);
-	--link-color--visited: rgb(196, 69, 80);
-	--main-background-color: rgb(1, 1, 2);
-	--secondary-background-color: rgb(80, 80, 80);
-	--main-text-color: rgb(229, 229, 234);
-	--border-color: rgb(80, 80, 80);
-	--border-top-color: rgb(18, 18, 18);
-    --border-bottom-color: rgb(54, 59, 61);
+  --light-text-color: rgb(199, 199, 204);
+  --secondary-text-color: rgb(106, 115, 125);
+  --link-color: rgb(255, 122, 132);
+  --link-color--visited: rgb(196, 69, 80);
+  --main-background-color: rgb(1, 1, 2);
+  --secondary-background-color: rgb(80, 80, 80);
+  --main-text-color: rgb(229, 229, 234);
+  --border-color: rgb(80, 80, 80);
+  --border-top-color: rgb(18, 18, 18);
+  --border-bottom-color: rgb(54, 59, 61);
 }
 
 @media (prefers-color-scheme: dark) {
-	html,
-	html[data-theme="dark"] {
-		--light-text-color: rgb(199, 199, 204);
-		--secondary-text-color: rgb(106, 115, 125);
-		--link-color: rgb(255, 122, 132);
-		--link-color--visited: rgb(196, 69, 80);
-		--main-background-color: rgb(28, 28, 30);
-		--secondary-background-color: rgb(80, 80, 80);
-		--main-text-color: rgb(229, 229, 234);
-		--border-color: rgb(80, 80, 80);
-		--border-top-color: rgb(18, 18, 18);
-    	--border-bottom-color: rgb(54, 59, 61);
-	}
+  html,
+  html[data-theme="dark"] {
+    --light-text-color: rgb(199, 199, 204);
+    --secondary-text-color: rgb(106, 115, 125);
+    --link-color: rgb(255, 122, 132);
+    --link-color--visited: rgb(196, 69, 80);
+    --main-background-color: rgb(28, 28, 30);
+    --secondary-background-color: rgb(80, 80, 80);
+    --main-text-color: rgb(229, 229, 234);
+    --border-color: rgb(80, 80, 80);
+    --border-top-color: rgb(18, 18, 18);
+    --border-bottom-color: rgb(54, 59, 61);
+  }
 
-	html[data-theme="light"] {
-		--light-text-color: rgb(72, 72, 74);
-		--secondary-text-color: grey;
-		--link-color: rgb(0, 112, 201);
-		--link-color--visited: rgb(15, 69, 113);
-		--main-background-color: rgb(255, 255, 255);
-		--secondary-background-color: rgb(255, 255, 255);
-		--main-text-color: rgb(51, 51, 51);
-		--border-color: rgb(200, 200, 200);
-		--border-top-color: rgb(66, 66, 66);
-		--border-bottom-color: rgb(232, 232, 232);
-	}
+  html[data-theme="light"] {
+    --light-text-color: rgb(72, 72, 74);
+    --secondary-text-color: grey;
+    --link-color: rgb(0, 112, 201);
+    --link-color--visited: rgb(15, 69, 113);
+    --main-background-color: rgb(255, 255, 255);
+    --secondary-background-color: rgb(255, 255, 255);
+    --main-text-color: rgb(51, 51, 51);
+    --border-color: rgb(200, 200, 200);
+    --border-top-color: rgb(66, 66, 66);
+    --border-bottom-color: rgb(232, 232, 232);
+  }
 }
 
 video {
@@ -261,19 +261,40 @@ video {
 }
 
 .video-container {
-	position: relative;
-	padding-bottom: 56.25%;
-	padding-top: 30px;
-	height: 0;
-	overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
 }
 
 .video-container iframe,
 .video-container object,
 .video-container embed {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.list-headline {
+  font-size: 16px;
+  line-height: 34px;
+  font-weight: 300;
+  color: var(--main-text-color);
+}
+
+.video-list-container {
+  position: relative;
+  margin-bottom: 80px;
+  height: 500px;
+  overflow: hidden;
+}
+
+.soundcloud-list-container {
+  position: relative;
+  margin-bottom: 80px;
+  height: 380px;
+  overflow: hidden;
 }
