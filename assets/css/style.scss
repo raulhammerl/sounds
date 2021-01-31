@@ -48,15 +48,9 @@ body {
   background-color: var(--main-background-color);
 }
 
-h3 {
-  font-size: 12px;
-  font-weight: 300;
-  line-height: 30px;
-  color: var(--main-text-color);
-}
-
 h1,
 h2,
+h3,
 h4,
 h5,
 h6 {
@@ -279,9 +273,9 @@ video {
 }
 
 .list-headline {
-  font-size: 16px;
-  line-height: 34px;
-  font-weight: 300;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 200;
   color: var(--main-text-color);
 }
 
