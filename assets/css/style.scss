@@ -306,12 +306,12 @@ video {
 
 .video-list{
   list-style-type: none;
-  padding-left: 0;
+  padding-left: 0px;
   width: 100%;
   display: table;
   table-layout: fixed;
   border: 1px solid #c2c2c2;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background-color: pink;
+  background-color: red;
 }
