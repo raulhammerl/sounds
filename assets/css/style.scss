@@ -301,12 +301,12 @@ video {
   padding: 0;
   text-align: center;
   display: table-row;
-  background: pink;
 }
 
-.video-list{
+.video-list {
   list-style-type: none;
-  padding-left: 0px;
+  padding: 0;
+  margin: 0;
   width: 100%;
   display: table;
   table-layout: fixed;
