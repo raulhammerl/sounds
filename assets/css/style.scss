@@ -295,7 +295,7 @@ video {
   overflow: hidden;
 }
 
-.video-list-container li {
+.video-list li {
   margin: 0 50px 0 0;
   float: left;
   padding: 0;
@@ -304,7 +304,7 @@ video {
   background: pink;
 }
 
-.video-list-container ul {
+.video-list{
   list-style-type: none;
   padding-left: 0;
   width: 100%;
@@ -313,4 +313,5 @@ video {
   border: 1px solid #c2c2c2;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  background-color: pink;
 }
