@@ -276,7 +276,15 @@ video {
   font-size: 20px;
   line-height: 44px;
   font-weight: 400;
-  letter-spacing: -1px;
+  letter-spacing: 1px;
+  color: var(--main-text-color);
+}
+
+.list-top-headline {
+  font-size: 44px;
+  line-height: 44px;
+  font-weight: 600;
+  letter-spacing: -1;
   color: var(--main-text-color);
 }
 
