@@ -297,9 +297,7 @@ video {
 
 .video-list li {
   margin: 0 50px 0 0;
-  float: left;
-  padding: 0;
-  text-align: center;
+  padding: 0 50px 0 0;
   display: table-row;
 }
 
@@ -313,5 +311,4 @@ video {
   border: 1px solid #c2c2c2;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background-color: red;
 }
