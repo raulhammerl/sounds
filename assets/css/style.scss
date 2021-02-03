@@ -276,7 +276,7 @@ video {
   font-size: 19px;
   line-height: 22px;
   font-weight: 300;
-  color: var(--main-text-color);
+  color: var(--link-color);
 }
 
 .list-title {
@@ -284,7 +284,7 @@ video {
   line-height: 24px;
   font-weight: 600;
   letter-spacing: -1;
-  color: var(--secondary-text-color);
+  color: var(--main-text-color);
 }
 
 .video-list li:not(:last-child) {
