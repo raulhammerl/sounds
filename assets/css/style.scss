@@ -279,9 +279,9 @@ video {
   color: var(--main-text-color);
 }
 
-.video-list li {
-  margin-bottom: 100px;
-  padding-bottom: 100px;
+.video-list li:not(:last-child) {
+  margin-bottom: 50px;
+  padding-bottom: 50px;
   display: block;
   position: relative;
 }
