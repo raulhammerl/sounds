@@ -9,6 +9,7 @@ author: Robert
 ---
 <br>
 
+<ul class="video-list">
 <li class="video-list">
 <p class="list-title">Zwölf</p>
 <p class="list-subtitle">Aimé Césaire</p>
