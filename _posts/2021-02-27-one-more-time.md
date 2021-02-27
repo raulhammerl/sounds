@@ -4,9 +4,9 @@ genres:
 - house
 date: 2021-02-27 22:18:42 +0100
 layout: youtube
-title: One More Time
+title: Around the World
 artist: Daft Punk
-youtube-url: FGBhQbmPwH8
+youtube-url: dwDns8x3Jb4
 author: Raul
 
 ---
