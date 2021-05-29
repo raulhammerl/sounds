@@ -1,5 +1,9 @@
 ---
-genres: []
+genres:
+- funk
+- " reggae"
+- soul
+- undefined
 date: 2021-05-29 11:02:54 +0200
 layout: youtube
 title: Things Are Going My Way
