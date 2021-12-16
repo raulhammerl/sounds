@@ -7,6 +7,7 @@ artist: Liquid Visions
 youtube-url: RDdaCK4c_zw
 author: Timmo
 genre:
-- psychedelic
+- " Space-Rock"
+- "  Psychedelic-Rock"
 
 ---
