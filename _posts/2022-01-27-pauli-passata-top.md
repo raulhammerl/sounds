@@ -2,7 +2,7 @@
 genre:
   - top
   - jahrescharts
-title: "Top 2022 Top 4"
+title: "Top 4"
 artist: Pauli Passata 
 date: 2022-01-27T18:00:00.000+01:00
 author: Paul
