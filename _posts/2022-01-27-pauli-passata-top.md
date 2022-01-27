@@ -69,7 +69,7 @@ author: Paul
 
 
 <li class="video-list">
-<p class="list-title">Top</p>
+<p class="list-title">Top Top</p>
 <p class="list-subtitle">Nena - Nur geträumt</p>
 
 <div class="video-container">
