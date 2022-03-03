@@ -197,7 +197,7 @@ author: Lenart
 </li>
 
 <li class="video-list">
-        <p class="list-title">Drai</p>
+        <p class="list-title">Drei</p>
         <p class="list-subtitle">Tom Waits - Swordfishtrombone</p>
         <div class="video-container">
             <iframe
@@ -233,7 +233,7 @@ author: Lenart
         
         
 <li class="video-list">
-        <p class="list-title">Ains</p>
+        <p class="list-title">Eins</p>
         <p class="list-subtitle">The Dynamics - Music - Disco Version</p>
         <div class="video-container">
             <iframe
