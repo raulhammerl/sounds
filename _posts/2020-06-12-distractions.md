@@ -1,9 +1,11 @@
 ---
+title: Distractions (Demo Version)
+date: 2020-06-12 09:33:33 Z
+tags:
+- singer-songwriter
 artist: Paul McCartney
-title:  Distractions (Demo Version)
-date:   2020-06-12 10:33:33 +0100
 author: Raul
 youtube-url: _ndH_A-EBq0
-tags: singer-songwriter
 layout: youtube
 ---
+

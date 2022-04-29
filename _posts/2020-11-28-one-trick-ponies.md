@@ -1,11 +1,11 @@
 ---
+title: One Trick Ponies
+date: 2020-11-28 10:21:21 Z
 genres:
 - Indie Rock
-date: 2020-11-28 11:21:21 +0100
 layout: youtube
-title: One Trick Ponies
 artist: Kurt Vile
 youtube-url: W7OmWKy6_8E
 author: Raul
-
 ---
+

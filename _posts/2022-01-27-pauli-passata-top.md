@@ -1,12 +1,13 @@
 ---
+title: Top 4
+date: 2022-01-27 17:00:00 Z
 genre:
-  - top
-  - jahrescharts
-title: "Top 4"
-artist: Pauli Passata 
-date: 2022-01-27T18:00:00.000+01:00
+- top
+- jahrescharts
+artist: Pauli Passata
 author: Paul
 ---
+
 <br>
 
 <ul class="video-list">

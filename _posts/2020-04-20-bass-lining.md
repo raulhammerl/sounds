@@ -1,9 +1,10 @@
 ---
+title: Bass Lining
+date: 2020-04-20 08:00:33 Z
 artist: Timmo
-title:  Bass Lining
-date:   2020-04-20 9:00:33 +0100
 author: Timmo
 ---
+
 <div class="audio-container">
 
 <audio controls>

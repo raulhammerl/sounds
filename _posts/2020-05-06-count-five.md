@@ -1,9 +1,9 @@
 ---
+title: Psychotic Reaction
+date: 2020-05-06 07:33:33 Z
 artist: The Count Five
-title:  Psychotic Reaction
-date:   2020-05-06 8:33:33 +0100
 author: Valer
-youtube-url: GTroJlLPRHM 
+youtube-url: GTroJlLPRHM
 layout: youtube
 ---
 

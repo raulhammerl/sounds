@@ -1,7 +1,7 @@
 ---
+title: Sir Viktig
+date: 2020-03-11 08:14:33 Z
 artist: Sain & Smith
-title:  Sir Viktig
-date:   2020-03-11 09:14:33 +0100
 author: Raul
 layout: youtube
 youtube-url: ot4xqflfaA8

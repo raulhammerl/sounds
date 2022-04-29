@@ -1,11 +1,12 @@
 ---
+title: I Fell In Love, Again
+date: 2020-06-12 08:33:33 Z
+tags:
+- orchestral
 artist: Sinj Clarke
-title:  I Fell In Love, Again
-date:   2020-06-12 09:33:33 +0100
 author: Jo
 youtube-url: TKQz4e2vgGw
 layout: youtube
-tags: orchestral
 ---
 
 Debutalbum: Music for italian afternoons is och subba.

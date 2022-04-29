@@ -1,12 +1,13 @@
 ---
+title: Top 2020 Top Alles
+date: 2021-02-21 08:00:00 Z
 genre:
-  - top
-  - jahrescharts
-title: "Top 2020 Top Alles"
+- top
+- jahrescharts
 artist: Roberto Martino
-date: 2021-02-21T09:00:00.000+01:00
 author: Robert
 ---
+
 <br>
 
 <ul class="video-list">

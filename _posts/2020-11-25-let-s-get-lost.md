@@ -1,11 +1,11 @@
 ---
+title: Let's get Lost
+date: 2020-11-25 09:52:40 Z
 genres:
 - jazz
-date: 2020-11-25 10:52:40 +0100
 layout: youtube
-title: Let's get Lost
 artist: Chet Baker
 youtube-url: AVr4V6iYsgk
 author: Raul
-
 ---
+

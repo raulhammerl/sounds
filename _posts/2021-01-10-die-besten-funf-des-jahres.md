@@ -1,11 +1,11 @@
 ---
-genre: []
 title: Fünf des Jahres
+date: 2021-01-10 18:00:00 Z
+genre: []
 artist: Die Besten
-date: 2021-01-10 19:00:00 +0100
 author: ''
-
 ---
+
 Hey Besties
 
 2020 war einmal und wird vorerst wohl nicht mehr! So manch einen wird das gehörig freuen, so oder so hatte dieses, wie wohl jedes andere Jahr auch, ein paar fette Momente und süücke Tracks für uns bereit. Das lässt sich ja schon alleine auf dieser netten Seite hier feststellen (Yay! Sounds blog birthday coming up). Daher würde ich gerne allzu feierlichst dazu aufrufen eine Ansammlung der Top 5 fettesten Musikfetzen des Jahres stattfinden zulassen!

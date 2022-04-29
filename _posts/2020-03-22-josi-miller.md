@@ -1,9 +1,10 @@
 ---
-artist:  Josi Miller
-title:   Songs to Stay Home to Pt. 1
-date:    2020-03-22 21:00:33 +0100
-author:  Raul
+title: Songs to Stay Home to Pt. 1
+date: 2020-03-22 20:00:33 Z
+artist: Josi Miller
+author: Raul
 ---
+
 <div class="audio-container">
 
 <audio controls>

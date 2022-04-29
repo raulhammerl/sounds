@@ -1,12 +1,12 @@
 ---
-date: 2020-11-04 08:19:22 +0100
+title: A Long Time
+date: 2020-11-04 07:19:22 Z
 genres:
 - soul
 - neo-soul
 layout: youtube
-title: A Long Time
 author: Raul
 artist: Mayer Hawthorne
 youtube-url: S4iIsE1PBhE
-
 ---
+

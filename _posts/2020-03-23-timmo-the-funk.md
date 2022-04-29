@@ -1,9 +1,10 @@
 ---
+title: The Funk
+date: 2020-03-23 16:30:33 Z
 artist: Timmo & Gabo
-title:  The Funk 
-date:   2020-03-23 17:30:33 +0100
 author: Timmo
 ---
+
 <div class="audio-container">
 
 <audio controls>
