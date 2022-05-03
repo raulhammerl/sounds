@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Youtube Post
 hide_body: false
 fields:
@@ -101,3 +98,4 @@ pages:
 - _posts/2022-03-18-obvs.md
 - _posts/hurt.md
 - _posts/laptop-stand.md
+- _posts/the-smoke.md
