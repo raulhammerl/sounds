@@ -3,7 +3,7 @@ genre:
 - mix
 title: 'FORUM w/ Celine & Arara '
 artist: " Celine & Arara "
-date: 
+date: 2022-05-20 00:00:00 +0200
 author: Raul
 
 ---
