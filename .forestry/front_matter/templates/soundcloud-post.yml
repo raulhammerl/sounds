@@ -20,7 +20,3 @@ fields:
   type: tag_list
   default: []
   label: Genre
-pages:
-- _posts/2020-12-11-spiderman-1.md
-- _posts/cold-mirror.md
-- _posts/forum-w-celine-arara.md
