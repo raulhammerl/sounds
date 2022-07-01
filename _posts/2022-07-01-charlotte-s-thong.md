@@ -1,6 +1,7 @@
 ---
 genres:
-- pop
+- "\tFolk Rock"
+- Soft Rock
 date: 2022-07-01 12:37:09 +0200
 layout: youtube
 title: Charlotte's Thong
