@@ -20,5 +20,3 @@ fields:
   type: tag_list
   default: []
   label: Genre
-pages:
-- _posts/italian-summer-ost-special.md
