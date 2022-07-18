@@ -53,6 +53,7 @@ fields:
   label: layout
   hidden: true
 pages:
+- _posts/0594-help.md
 - _posts/2020-10-29-the-babylon-nightclub-demos-and-dubs.md
 - _posts/2020-11-01-end-of-the-page.md
 - _posts/2020-11-03-club-ulaup.md
