@@ -53,7 +53,6 @@ fields:
   label: layout
   hidden: true
 pages:
-- _posts/0594-help.md
 - _posts/2020-10-29-the-babylon-nightclub-demos-and-dubs.md
 - _posts/2020-11-01-end-of-the-page.md
 - _posts/2020-11-03-club-ulaup.md
@@ -87,8 +86,4 @@ pages:
 - _posts/2021-11-25-lazy-man-crazy.md
 - _posts/2022-01-06-officer.md
 - _posts/2022-03-18-obvs.md
-- _posts/he-who-laughs-last.md
-- _posts/love-soup.md
-- _posts/purging-the-demons.md
-- _posts/so-i-can-see-you-ft.coby-sey.md
-- _posts/universe.md
+- _posts/bam-bam-backa-rap.md
