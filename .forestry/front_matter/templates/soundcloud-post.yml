@@ -20,5 +20,3 @@ fields:
   type: tag_list
   default: []
   label: Genre
-pages:
-- _posts/2022-08-22-nao-ta-cung-dub.md
